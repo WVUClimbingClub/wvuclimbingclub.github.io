@@ -10,4 +10,5 @@ We do several events throughout the year, we teach instructional workshops to le
 
 Our typical schedule looks like this: Tuesday nights we hold workshop days or open climb days, and most weekends we'll host a day trip or overnight camping trip to a local crag! Check out our schedule below for up-to-date plans, and our [FAQ]({{ '/faq' | relative_url }}) for any questions!
 
-![](https://calendar.google.com/calendar/u/1/embed?src=wvuclimbingclub@gmail.com&ctz=America/New_York&csspa=1)
+
+<iframe src="https://calendar.google.com/calendar/embed?src=wvuclimbingclub%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
