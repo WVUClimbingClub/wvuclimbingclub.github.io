@@ -24,7 +24,7 @@ author: Made by Grady King
 navbar-links:
 # Main: ""
   Join: "join"
-# FAQ: "faq"
+  FAQ: "faq"
   Contact: "contact"
 
 # adding dropdown VVV
