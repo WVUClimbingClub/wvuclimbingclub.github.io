@@ -6,6 +6,10 @@ title: FAQ
 
 We do several events, such as instructional workshops to learn practical outdoor climbing skills, go on single-day and multi-day trips, and we have big trips during Fall Break and Spring Break to areas like the New and the Red!
 
+## Are you open to beginner climbers?
+
+Absolutely, we have many beginner climbers in the club! We have workshops to learn technical skills, and we are happy to teach during an outing.
+
 ## How do I sign up?
 
 Click the join button at the top right! You can fill out the member form and the WVUEngage page.
@@ -17,7 +21,3 @@ We climb at the WVU Rec Center every Tuesday from 7-9pm, and we also go on outin
 ## Can I bring a friend?
 
 Of course, but we can't offer a carpool or gear to non-students!
-
-## This is a question?
-
-Wow, here's a response!

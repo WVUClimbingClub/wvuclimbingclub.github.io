@@ -25,6 +25,7 @@ navbar-links:
 # Main: ""
   Join: "join"
   FAQ: "faq"
+  Schedule: "schedule"
   Contact: "contact"
 
 # adding dropdown VVV
