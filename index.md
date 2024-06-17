@@ -36,4 +36,4 @@ Our typical schedule looks like this: Tuesday nights we hold workshop days or op
 
 <iframe src="https://calendar.google.com/calendar/embed?src=wvuclimbingclub%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-![Front Page Photo](https://wvuclimbingclub.github.io/assets/img/frontPagePhoto.png){: .mx-auto.d-block :}
+![Front Page Photo](https://wvuclimbingclub.github.io/assets/img/frontPagePhotoLarge.png){: .mx-auto.d-block :}
